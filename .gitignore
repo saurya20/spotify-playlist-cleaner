@@ -1,0 +1,16 @@
+# Ignore raw Spotify exports
+spotify_csvs/
+
+# Ignore csv outputs if you want
+*.csv
+
+# R temporary files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
