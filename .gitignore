@@ -14,3 +14,8 @@ spotify_csvs/
 
 # Windows system files
 Thumbs.db
+#environments
+venv/
+__pycache__/
+*.pyc
+.env
